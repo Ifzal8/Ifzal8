@@ -2,8 +2,7 @@
 - 👀 I’m interested in making websites and I also have interest in cars
 - 🌱 I’m currently learning in presidency college, I am a BCA student
 - 💞️ I’m looking to collaborate on a startup 
-- 📫 How to reach me? My contact number is 7259425162 
--     
+- 📫 How to reach me? My contact number is 7259425162      
 
 <!---
 Ifzal8/Ifzal8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
